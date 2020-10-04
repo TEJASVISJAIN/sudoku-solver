@@ -1,6 +1,9 @@
 # guiapp.py
 import pygame
 import time
+print("HELLO, THIS IS MY FIRST EDIT, SORRY SIR ! I ASKED ABOUT THE SEMI COLON")
+# JUST MESSING AROUND A BIT :)
+#REGARDS TEJASVI S JAIN
 pygame.font.init()
 
 
